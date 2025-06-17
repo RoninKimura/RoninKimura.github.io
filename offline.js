@@ -1,0 +1,30 @@
+﻿{
+	"version": 1750137623,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/fondo.png",
+		"images/pintarron-sheet0.png",
+		"images/libro-sheet0.png",
+		"images/i-sheet0.png",
+		"images/p-sheet0.png",
+		"images/r-sheet0.png",
+		"images/divisor-sheet0.png",
+		"images/cuadrado-sheet0.png",
+		"images/colocarletrar-sheet0.png",
+		"images/colocarletrap-sheet0.png",
+		"images/colocardivisor-sheet0.png",
+		"images/colocarcuadrado-sheet0.png",
+		"images/palomita-sheet0.png",
+		"images/validar-sheet0.png",
+		"media/lofi-orchestra-162306.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
